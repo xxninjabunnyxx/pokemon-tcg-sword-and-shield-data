@@ -1,0 +1,86 @@
+---
+id: swsh1-142
+name: Snorlax VMAX
+supertype: Pokémon
+subtypes:
+- VMAX
+hp: '340'
+types:
+- Colorless
+evolvesFrom: Snorlax V
+rules:
+- 'VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.'
+attacks:
+- name: G-Max Fall
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: 60+
+  text: This attack does 30 more damage for each of your Benched Pokémon.
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 4
+set:
+  id: swsh1
+  name: Sword & Shield
+  series: Sword & Shield
+  printedTotal: 202
+  total: 216
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: SSH
+  releaseDate: 2020/02/07
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh1/symbol.png
+    logo: https://images.pokemontcg.io/swsh1/logo.png
+number: '142'
+artist: aky CG Works
+rarity: Rare Holo VMAX
+nationalPokedexNumbers:
+- 143
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swsh1/142.png
+  large: https://images.pokemontcg.io/swsh1/142_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh1-142
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 9.91
+      mid: 12.0
+      high: 26.0
+      market: 10.78
+      directLow: 14.58
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh1-142
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 17.19
+    lowPrice: 7.0
+    trendPrice: 15.87
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 16.39
+    lowPriceExPlus: 12.0
+    avg1: 12.0
+    avg7: 15.53
+    avg30: 16.06
+    reverseHoloAvg1: 18.0
+    reverseHoloAvg7: 16.11
+    reverseHoloAvg30: 15.98

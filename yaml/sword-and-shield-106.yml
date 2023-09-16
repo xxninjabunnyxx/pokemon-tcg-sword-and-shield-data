@@ -1,0 +1,91 @@
+---
+id: swsh1-106
+name: Mudsdale
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '150'
+types:
+- Fighting
+evolvesFrom: Mudbray
+attacks:
+- name: Double Impact
+  cost:
+  - Fighting
+  - Fighting
+  - Fighting
+  convertedEnergyCost: 3
+  damage: 120×
+  text: Flip 2 coins. This attack does 120 damage for each heads.
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: swsh1
+  name: Sword & Shield
+  series: Sword & Shield
+  printedTotal: 202
+  total: 216
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: SSH
+  releaseDate: 2020/02/07
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh1/symbol.png
+    logo: https://images.pokemontcg.io/swsh1/logo.png
+number: '106'
+artist: Masakazu Fukuda
+rarity: Rare
+flavorText: Mud that hardens around a Mudsdale's legs sets harder than stone. It's
+  so hard that it allows this Pokémon to scrap a truck with a single kick.
+nationalPokedexNumbers:
+- 750
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swsh1/106.png
+  large: https://images.pokemontcg.io/swsh1/106_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh1-106
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.2
+      mid: 0.4
+      high: 1.28
+      market: 0.4
+      directLow: 0.28
+    normal:
+      low: 0.05
+      mid: 0.24
+      high: 1.08
+      market: 0.19
+      directLow: 0.2
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh1-106
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.29
+    lowPrice: 0.02
+    trendPrice: 0.34
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.84
+    reverseHoloLow: 0.2
+    reverseHoloTrend: 0.65
+    lowPriceExPlus: 0.02
+    avg1: 0.4
+    avg7: 0.31
+    avg30: 0.27
+    reverseHoloAvg1: 0.89
+    reverseHoloAvg7: 0.8
+    reverseHoloAvg30: 0.7

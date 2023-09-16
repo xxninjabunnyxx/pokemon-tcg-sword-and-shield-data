@@ -1,0 +1,93 @@
+---
+id: swsh1-195
+name: Zacian V
+supertype: Pokémon
+subtypes:
+- Basic
+- V
+hp: '220'
+types:
+- Metal
+rules:
+- 'V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.'
+abilities:
+- name: Intrepid Sword
+  text: Once during your turn, you may look at the top 3 cards of your deck and attach
+    any number of Metal Energy cards you find there to this Pokémon. Put the other
+    cards into your hand. If you use this Ability, your turn ends.
+  type: Ability
+attacks:
+- name: Brave Blade
+  cost:
+  - Metal
+  - Metal
+  - Metal
+  convertedEnergyCost: 3
+  damage: '230'
+  text: During your next turn, this Pokémon can't attack.
+weaknesses:
+- type: Fire
+  value: "×2"
+resistances:
+- type: Grass
+  value: "-30"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: swsh1
+  name: Sword & Shield
+  series: Sword & Shield
+  printedTotal: 202
+  total: 216
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: SSH
+  releaseDate: 2020/02/07
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh1/symbol.png
+    logo: https://images.pokemontcg.io/swsh1/logo.png
+number: '195'
+artist: 5ban Graphics
+rarity: Rare Ultra
+nationalPokedexNumbers:
+- 888
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swsh1/195.png
+  large: https://images.pokemontcg.io/swsh1/195_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh1-195
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 2.48
+      mid: 4.14
+      high: 45.9
+      market: 3.57
+      directLow: 4.24
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh1-195
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 7.46
+    lowPrice: 3.0
+    trendPrice: 7.02
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 20.28
+    lowPriceExPlus: 5.5
+    avg1: 5.99
+    avg7: 7.46
+    avg30: 8.31
+    reverseHoloAvg1: 20.5
+    reverseHoloAvg7: 19.68
+    reverseHoloAvg30: 21.84
